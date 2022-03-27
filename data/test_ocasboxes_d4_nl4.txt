@@ -1,0 +1,288 @@
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 - 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 - 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 - 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 - 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 - 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 - 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 - 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 - 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 - 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 - 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 - 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 - 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 - 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 - 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 - 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 - 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 - 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 - 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 - 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 - 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 - 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 - 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 - 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 - 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22185 f(x1,x2,x3,x4) = 1 + x1 + x2 + x3 + x2x3 + x4 - 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 27285 f(x1,x2,x3,x4) = 1 + x1 + x2x3 + x4 - 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 38250 f(x1,x2,x3,x4) = x1 + x2x3 + x4 - 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 - 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 22950 f(x1,x2,x3,x4) = x1 + x2 + x2x3 + x4 - 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 26010 f(x1,x2,x3,x4) = x1 + x3 + x2x3 + x4 - 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 39525 f(x1,x2,x3,x4) = 1 + x1 + x3 + x2x3 + x4 - 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
+Component 100100 -- NL:0
+Component 010010 -- NL:0
+Component 110110 -- NL:0
+Component 001001 -- NL:0
+Component 101101 -- NL:0
+Component 011011 -- NL:0
+Component 111111 -- NL:0
+Number of linear components: 7
+Rules 42585 f(x1,x2,x3,x4) = 1 + x1 + x2 + x2x3 + x4 - 43350 f(x1,x2,x3,x4) = x1 + x2 + x3 + x2x3 + x4 S-box: 	Balanced: true	NLterms: true	 Nonlinearity: 0
